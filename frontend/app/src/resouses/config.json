@@ -1,0 +1,5 @@
+{
+  "SERVER_URL_VALIDATE_PATCH": "https://identity-gateway.cloud.wso2.com/t/wso2internalstg/autopatchsigner/patchValidator",
+  "SERVER_URL_FETCH_DATA": "https://identity-gateway.cloud.wso2.com/t/wso2internalstg/autopatchsigner/fetchData",
+  "SERVER_URL_SHOW_RESULT": "https://identity-gateway.cloud.wso2.com/t/wso2internalstg/autopatchsigner/showResult"
+}
